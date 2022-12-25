@@ -1,9 +1,10 @@
 # Hi 👋, I'm Dmitrii
-## Student School 21
 
+### Student at School 21
 ### 🌱 I’m currently learning **simple use of CI/CD**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 
+Telegram: quellyss </h3>
 <p align="left">
 </p>
 
