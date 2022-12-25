@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dmitrii</h1>
-<h3 align="center">Student School 21</h3>
+# Hi 👋, I'm Dmitrii
+## Student School 21
 
-- 🌱 I’m currently learning **simple use of CI/CD**
+### 🌱 I’m currently learning **simple use of CI/CD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
