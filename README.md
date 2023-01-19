@@ -7,4 +7,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekkogin&show_icons=true&locale=en&layout=compact" alt="zekkogin" /></p>
 
-[![LeetCode user user2211R](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fuser2211R&logo=leetcode&logoColor=yellow)](https://leetcode.com/user2211R/)
+[![LeetCode user zekkogin](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fzekkogin&logo=leetcode&logoColor=yellow)](https://leetcode.com/zekkogin/)
