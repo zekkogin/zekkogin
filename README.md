@@ -1,5 +1,5 @@
 # Hi 👋, I'm Dmitrii
-### Student at School 21
+### 
 
 
 <h3 align="left">Languages and Tools:</h3>
